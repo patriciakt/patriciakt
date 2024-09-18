@@ -5,13 +5,15 @@
 ### Technologies and Tools:
 
 
-###Current Projects:
+### Current Projects:
 
 
 
-###Interests:
+### Interests:
 
 
-### 📮How to reach me:
+### 📮How to Reach Me:
 -Portfolio
+
+
 -Email: p.kroenert98@gmail.com
