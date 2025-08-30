@@ -1,6 +1,6 @@
 # **Hi, I'm Patricia!👋 Welcome to my GitHub profile :)**
 
-## 👩🏻‍💻 Aspiring Web Developer - 
+## 👩🏻‍💻 Frontend Web Developer - 
 
 ### Technologies and Tools:
 
