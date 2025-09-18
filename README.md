@@ -1,6 +1,6 @@
 # **Hi, I'm Patricia!👋 Welcome to my GitHub profile :)**
 
-## 👩🏻‍💻 Frontend Web Developer - 
+## 👩🏻‍💻 
 
 ### Technologies and Tools:
 
@@ -14,6 +14,6 @@
 
 ### 📮How to Reach Me:
 -Portfolio
-
+-LinkedIn
 
 -Email: p.kroenert98@gmail.com
